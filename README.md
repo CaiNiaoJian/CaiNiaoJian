@@ -19,3 +19,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiNiaoJian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
