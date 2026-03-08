@@ -14,23 +14,7 @@ This period is a whirlwind of challenges and breakthroughs. While I sometimes gr
 
 ### 💻 My Tech Stack & Skills
 
-Here are some of the technologies and concepts I've been working with:
 
-<p align="left">
-  <strong>🤖 AI & Machine Learning:</strong><br>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
-  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
-</p>
-
-<p align="left">
-  <strong>📈 Big Data & Parallel Computing:</strong><br>
-  <a href="#"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900.svg?logo=nvidia&logoColor=white"></a>
-  <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apachespark&logoColor=white"></a>
-  <a href="#"><img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=apachehadoop&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=postgresql&logoColor=white"></a>
-</p>
 
 <p align="left">
   <strong>🔧 Core Fundamentals:</strong><br>
